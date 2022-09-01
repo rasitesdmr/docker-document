@@ -1,0 +1,1 @@
+docker image build -t rasitesdmr1486/spring:1.0 .
