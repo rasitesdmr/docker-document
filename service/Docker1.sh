@@ -1,0 +1,1 @@
+$ docker service create --name test --network abc --public 8080:80 --replicas=10 --update-delay=10s --update-parallelism=2 rasitesdmr1486/deneme:latest
